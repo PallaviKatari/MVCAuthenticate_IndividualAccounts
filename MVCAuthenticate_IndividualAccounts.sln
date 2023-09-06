@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAuthenticate_IndividualAccounts", "MVCAuthenticate_IndividualAccounts.csproj", "{0636C7DA-BD65-4534-937A-B158ADFE890C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_WEPAPIDemo", "..\MVC_WEPAPIDemo\MVC_WEPAPIDemo.csproj", "{9192C5E1-35F5-47D1-B230-B674F138C901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0636C7DA-BD65-4534-937A-B158ADFE890C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0636C7DA-BD65-4534-937A-B158ADFE890C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0636C7DA-BD65-4534-937A-B158ADFE890C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0636C7DA-BD65-4534-937A-B158ADFE890C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9192C5E1-35F5-47D1-B230-B674F138C901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9192C5E1-35F5-47D1-B230-B674F138C901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9192C5E1-35F5-47D1-B230-B674F138C901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9192C5E1-35F5-47D1-B230-B674F138C901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69652FC-65BF-4A5D-BBF0-E108847763DB}
+	EndGlobalSection
+EndGlobal
